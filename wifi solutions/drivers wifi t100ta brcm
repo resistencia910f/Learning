@@ -1,0 +1,3 @@
+cd /lib/firmware/brcm
+
+sudo wget https://github.com/Asus-T100/firmware/raw/master/brcm/brcmfmac43340-sdio.txt
