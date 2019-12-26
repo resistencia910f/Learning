@@ -1,3 +1,11 @@
 tarjeta de red kali
 
 Copian todos los archivos del rar a sistema de archivos/lib/firmware
+__________________________________________________________
+
+git clone https://github.com/resistencia910f/Learning/blob/master/wifi%20solutions/firmware/firmware.rar
+cp firmware.rar /lib/firmware/
+cd /lib/firmware/
+unzip firmware.rar
+_________________________________________________________
+
