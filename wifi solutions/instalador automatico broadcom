@@ -1,0 +1,30 @@
+Instalador automático de drivers broadcom para wifi 
+
+BroadcomInstaller2017
+
+Automated Shell Script Install WiFi Driver ( Broadcom ) in Kali Linux 2017.1 Made By SSTec Tutorials #Broadcom Wifi Driver (802.11n) Broadcom 802.11n Network Adapter is a software program developed by Broadcom.
+The software is designed to connect to the Internet and adds a Windows Firewall exception in order to do so without being interfered with.
+
+Download Broadcom Installer :
+https://github.com/mehedishakeel/BroadcomInstaller2017.git
+
+usage :
+cd Desktop 
+
+git clone https://github.com/mehedishakeel/BroadcomInstaller2017.git
+
+
+cd BroadcomInstaller2017
+
+chmod +x ./Broadcom.sh
+
+./Broadcom.sh
+
+________
+Install Wifi 
+DriverShow Commands
+Quit 
+Please enter your choice:
+
+
+NO ME FUNCIONA EN #Nethunter
